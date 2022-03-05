@@ -1,0 +1,153 @@
+Microsoft Windows [Wersja 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Wszelkie prawa zastrze¿one.
+
+C:\Users\local>ipconfig/all
+
+Konfiguracja IP systemu Windows
+
+   Nazwa hosta . . . . . . . . . . . : WMII-I3RJMF8U0N
+   Sufiks podstawowej domeny DNS . . : wmii.local
+   Typ wêz³a . . . . . . . . . . . . : Hybrydowy
+   Routing IP w³¹czony . . . . . . . : Nie
+   Serwer WINS Proxy w³¹czony. . . . : Nie
+   Lista przeszukiwania sufiksów DNS : wmii.local
+
+Karta Ethernet Po³¹czenie lokalne 2:
+
+   Stan noœnika . . . .  . . . . . . .: Noœnik od³¹czony
+   Sufiks DNS konkretnego po³¹czenia :
+   Opis. . . . . . . . . . . . . . . : Karta Realtek RTL8139/810x Family Fast Et
+hernet NIC
+   Adres fizyczny. . . . . . . . . . : 00-0E-2E-2F-9E-71
+   DHCP w³¹czone . . . . . . . . . . : Tak
+   Autokonfiguracja w³¹czona . . . . : Tak
+
+Karta Ethernet Po³¹czenie lokalne:
+
+   Sufiks DNS konkretnego po³¹czenia : wmii.local
+   Opis. . . . . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Adres fizyczny. . . . . . . . . . : BC-AE-C5-CD-89-1E
+   DHCP w³¹czone . . . . . . . . . . : Tak
+   Autokonfiguracja w³¹czona . . . . : Tak
+   Adres IPv6 po³¹czenia lokalnego . : fe80::d4ca:8c97:25fa:508f%11(Preferowane)
+
+   Adres IPv4. . . . . . . . . . . . . : 192.168.13.22(Preferowane)
+   Maska podsieci. . . . . . . . . . : 255.255.255.0
+   Dzier¿awa uzyskana. . . . . . . . : 5 marca 2022 08:03:07
+   Dzier¿awa wygasa. . . . . . . . . : 5 marca 2022 11:03:07
+   Brama domyœlna. . . . . . . . . . : 192.168.13.1
+   Serwer DHCP . . . . . . . . . . . : 192.168.13.1
+   Identyfikator IAID DHCPv6 . . . . : 247246533
+   Identyfikator DUID klienta DHCPv6 : 00-01-00-01-23-45-53-B9-BC-AE-C5-CD-89-1E
+
+   Serwery DNS . . . . . . . . . . . : 213.184.8.5
+                                       213.184.8.10
+                                       213.184.8.2
+   NetBIOS przez Tcpip . . . . . . . : W³¹czony
+
+Karta Ethernet Po³¹czenie lokalne 3:
+
+   Sufiks DNS konkretnego po³¹czenia :
+   Opis. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Adres fizyczny. . . . . . . . . . : 0A-00-27-00-00-0C
+   DHCP w³¹czone . . . . . . . . . . : Nie
+   Autokonfiguracja w³¹czona . . . . : Tak
+   Adres IPv6 po³¹czenia lokalnego . : fe80::417e:72b0:23ff:f13b%12(Preferowane)
+
+   Adres IPv4. . . . . . . . . . . . . : 192.168.56.1(Preferowane)
+   Maska podsieci. . . . . . . . . . : 255.255.255.0
+   Brama domyœlna. . . . . . . . . . :
+   Identyfikator IAID DHCPv6 . . . . : 302645287
+   Identyfikator DUID klienta DHCPv6 : 00-01-00-01-23-45-53-B9-BC-AE-C5-CD-89-1E
+
+   Serwery DNS . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS przez Tcpip . . . . . . . : W³¹czony
+
+Karta Ethernet VMware Network Adapter VMnet1:
+
+   Sufiks DNS konkretnego po³¹czenia :
+   Opis. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet
+1
+   Adres fizyczny. . . . . . . . . . : 00-50-56-C0-00-01
+   DHCP w³¹czone . . . . . . . . . . : Tak
+   Autokonfiguracja w³¹czona . . . . : Tak
+   Adres IPv6 po³¹czenia lokalnego . : fe80::211a:af7e:a2c1:6a6c%18(Preferowane)
+
+   Adres IPv4. . . . . . . . . . . . . : 192.168.130.1(Preferowane)
+   Maska podsieci. . . . . . . . . . : 255.255.255.0
+   Dzier¿awa uzyskana. . . . . . . . : 5 marca 2022 08:03:23
+   Dzier¿awa wygasa. . . . . . . . . : 5 marca 2022 10:18:23
+   Brama domyœlna. . . . . . . . . . :
+   Serwer DHCP . . . . . . . . . . . : 192.168.130.254
+   Identyfikator IAID DHCPv6 . . . . : 486559830
+   Identyfikator DUID klienta DHCPv6 : 00-01-00-01-23-45-53-B9-BC-AE-C5-CD-89-1E
+
+   Serwery DNS . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS przez Tcpip . . . . . . . : W³¹czony
+
+Karta Ethernet VMware Network Adapter VMnet8:
+
+   Sufiks DNS konkretnego po³¹czenia :
+   Opis. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet
+8
+   Adres fizyczny. . . . . . . . . . : 00-50-56-C0-00-08
+   DHCP w³¹czone . . . . . . . . . . : Tak
+   Autokonfiguracja w³¹czona . . . . : Tak
+   Adres IPv6 po³¹czenia lokalnego . : fe80::b11f:28fe:d796:13aa%19(Preferowane)
+
+   Adres IPv4. . . . . . . . . . . . . : 192.168.190.1(Preferowane)
+   Maska podsieci. . . . . . . . . . : 255.255.255.0
+   Dzier¿awa uzyskana. . . . . . . . : 5 marca 2022 08:03:22
+   Dzier¿awa wygasa. . . . . . . . . : 5 marca 2022 10:18:22
+   Brama domyœlna. . . . . . . . . . :
+   Serwer DHCP . . . . . . . . . . . : 192.168.190.254
+   Identyfikator IAID DHCPv6 . . . . : 503337046
+   Identyfikator DUID klienta DHCPv6 : 00-01-00-01-23-45-53-B9-BC-AE-C5-CD-89-1E
+
+   Serwery DNS . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   Podstawowy serwer WINS. . . . . . : 192.168.190.2
+   NetBIOS przez Tcpip . . . . . . . : W³¹czony
+
+Karta tunelowa isatap.localdomain:
+
+   Stan noœnika . . . .  . . . . . . .: Noœnik od³¹czony
+   Sufiks DNS konkretnego po³¹czenia :
+   Opis. . . . . . . . . . . . . . . : Karta Microsoft ISATAP
+   Adres fizyczny. . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP w³¹czone . . . . . . . . . . : Nie
+   Autokonfiguracja w³¹czona . . . . : Tak
+
+Karta tunelowa isatap.{056BC89A-2D5E-4F99-A304-E1BCA69068D8}:
+
+   Stan noœnika . . . .  . . . . . . .: Noœnik od³¹czony
+   Sufiks DNS konkretnego po³¹czenia :
+   Opis. . . . . . . . . . . . . . . : Karta Microsoft ISATAP #2
+   Adres fizyczny. . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP w³¹czone . . . . . . . . . . : Nie
+   Autokonfiguracja w³¹czona . . . . : Tak
+
+Karta tunelowa isatap.{DC04CDD8-3445-4E96-B47F-E07869C0CF9F}:
+
+   Stan noœnika . . . .  . . . . . . .: Noœnik od³¹czony
+   Sufiks DNS konkretnego po³¹czenia :
+   Opis. . . . . . . . . . . . . . . : Karta Microsoft ISATAP #3
+   Adres fizyczny. . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP w³¹czone . . . . . . . . . . : Nie
+   Autokonfiguracja w³¹czona . . . . : Tak
+
+Karta tunelowa isatap.wmii.local:
+
+   Stan noœnika . . . .  . . . . . . .: Noœnik od³¹czony
+   Sufiks DNS konkretnego po³¹czenia : wmii.local
+   Opis. . . . . . . . . . . . . . . : Karta Microsoft ISATAP #4
+   Adres fizyczny. . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP w³¹czone . . . . . . . . . . : Nie
+   Autokonfiguracja w³¹czona . . . . : Tak
+
+C:\Users\local>
